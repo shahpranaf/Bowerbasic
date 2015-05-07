@@ -1,0 +1,26 @@
+{
+  "name": "Bower Fundamental",
+  "version": "1",
+  "description": "Bower basic",
+  "main": "index.html",
+  "keywords": [
+    "Bower"
+  ],
+  "authors": [
+    "pranav"
+  ],
+  "license": "MIT",
+  "homepage": "www.shahpranav.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "git://github.com/jquery/jquery.git",
+    "angular": "~1.3.15",
+    "bootstrap": "git://github.com/twbs/bootstrap.git"
+  }
+}
